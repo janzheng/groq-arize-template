@@ -53,6 +53,9 @@ This will:
 
 ## Observability Features
 
+
+![Arize tracing](./screenshot-2.png)
+
 With this setup, you'll get:
 
 - **Request/Response Logging**: All Groq API calls are automatically logged
@@ -62,6 +65,8 @@ With this setup, you'll get:
 - **Cost Tracking**: Token usage and cost monitoring
 
 ## Phoenix Dashboard
+
+![Arize dashboard](./screenshot-1.png)
 
 After running the example, visit your Phoenix dashboard:
 - Local: http://localhost:6006
