@@ -1,5 +1,13 @@
 # Groq + Arize Phoenix Observability Example
 
+[Arize Phoenix](https://docs.arize.com/phoenix) developed by [Arize AI](https://arize.com/) is an open-source AI observability library that enables comprehensive tracing and monitoring for your AI applications. By integrating Arize's observability tools with your Groq-powered applications, you can gain deep insights into your LLM worklflow's performance and behavior with features including:
+
+Automatic Tracing: Capture detailed metrics about LLM calls, including latency, token usage, and exceptions
+Real-time Monitoring: Track application performance and identify bottlenecks in production
+Evaluation Framework: Utilize pre-built templates to assess LLM performance
+Prompt Management: Easily iterate on prompts and test changes against your data
+
+
 This example demonstrates how to integrate Groq API calls with Arize Phoenix for comprehensive observability and monitoring of your AI applications.
 
 ## Features
