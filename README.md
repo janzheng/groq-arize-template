@@ -25,18 +25,24 @@ This example demonstrates how to integrate Groq API calls with Arize Phoenix for
 
 ## Installation
 
-1. Install dependencies:
+1. Clone the repository
+   ```bash
+   gh repo clone janzheng/groq-arize-template
+   cd groq-arize-template
+   ```
+
+2. Install dependencies:
 ```bash
 uv sync
 ```
 
-2. Set up environment variables:
+3. Set up environment variables:
 ```bash
 cp .env.example .env
 # Edit .env and add your GROQ_API_KEY
 ```
 
-3. Start Phoenix (if running locally):
+4. Start Phoenix (if running locally):
 ```bash
 # Option 1: Using pip
 pip install arize-phoenix
