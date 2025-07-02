@@ -108,6 +108,7 @@ The example uses `llama-3.1-8b-instant` by default, but you can use any Groq-sup
 - `llama-3.3-70b-versatile`
 - `meta-llama/llama-4-scout-17b-16e-instruct`
 - `meta-llama/llama-4-maverick-17b-128e-instruct`
+- Full list of [Groq models here](https://console.groq.com/docs/models) 
 
 ## Advanced Usage
 

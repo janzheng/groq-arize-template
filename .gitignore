@@ -30,7 +30,6 @@ venv.bak/
 
 # Deno
 .deno/
-deno.lock
 
 # Node.js / npm / yarn
 node_modules/
@@ -40,8 +39,6 @@ yarn-error.log*
 .npm
 .yarn/
 .pnp.*
-package-lock.json
-yarn.lock
 
 # Next.js
 .next/
